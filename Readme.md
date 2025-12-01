@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Rexx!
 
-### 🚀 Junior Web Developer | MERN Stack | React • Node.js • Socket.IO • Phaser | Final-Year B.Tech Student
+### 🚀 Web Developer | MERN Stack | React • Node.js • Socket.IO • Phaser | Final-Year B.Tech Student
 
 I'm a developer who loves building **interactive web apps**, **real-time experiences**, and **creative UI/UX**.  
 Currently working on a **2D metaverse platform** with multiplayer movement, chat systems, and WebRTC voice integration.
