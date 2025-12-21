@@ -16,10 +16,8 @@ Currently working on a **2D metaverse platform** with multiplayer movement, chat
 - 🛒 **E-Commerce Website**  
   Fully responsive, clean UI, cart system, and user auth  
 - 🧭 **Real-Time Device Tracker**  
-  WebSocket backend + Leaflet map  
-- 🎓 **Teaching ICSE Class 9 Maths & Science**  
-  Creating diagnostic tests + simplified explanations
-
+  WebSocket backend + Leaflet map
+  
 ---
 
 ## 🧰 Tech Stack
