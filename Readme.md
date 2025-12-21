@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rexx!
+# 👋 Hey, I'm Rajarshi!
 
 ### 🚀 Web Developer | MERN Stack | React • Node.js • Socket.IO • Phaser | B.Tech Graduate
 
