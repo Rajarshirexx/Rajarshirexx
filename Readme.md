@@ -27,7 +27,7 @@ React.js • TypeScript • Vite • Tailwind CSS • HTML • CSS • JavaScrip
 Phaser • Leaflet
 
 **Backend:**  
-Node.js • Express • Socket.IO • MongoDB • JWT • Bcrypt
+Node.js • Express • Socket.IO • MongoDB • JWT • Bcrypt • PHP
 
 **Tools:**  
 Git • GitHub • Postman • VS Code • Figma
@@ -60,10 +60,10 @@ Git • GitHub • Postman • VS Code • Figma
 
 ---
 
-## 📈 My Goals for 2025
+## 📈 My Goals for 2026
 
 - Build production-ready MERN apps  
-- Master DSA for placements  
+- Master DSA for growth, take a new cyber security course.  
 - Improve system design basics  
 - Contribute to open-source  
 - Land a solid Web Developer role  
@@ -79,6 +79,11 @@ Git • GitHub • Postman • VS Code • Figma
 ---
 
 ## 📫 Connect with Me
+
+- 🐙 **GitHub:** [Rajarshirexx](https://github.com/Rajarshirexx)
+- 📸 **Instagram:** [@rajodoesnothing](https://www.instagram.com/rajodoesnothing/)
+- 💼 **LinkedIn:** [Rajarshi Tambuli](https://www.linkedin.com/in/rajarshi-tambuli-3126b2221)
+- 📧 **Email:** [rajarshitambuli@gmail.com](mailto:rajarshitambuli@gmail.com)
 
 If you're into web dev, anime, or just want to collaborate — let’s talk!
 
